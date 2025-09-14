@@ -3,7 +3,7 @@
 <h3 align="center">A full stack developer building projects with a touch of AI</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+n+solving+real-world+projects;Full+Stack+Dev+%7C+AI%2FML+%7C+DSA;Always+learning+Always+evolving" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+and+solving+real-world+projects;Full+Stack+Dev+%7C+AI%2FML+%7C+DSA;Always+learning+Always+evolving" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -112,3 +112,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+<p align="center">
+<!-- Quote badge -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote badge" />
+</p>
+
