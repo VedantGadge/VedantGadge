@@ -38,7 +38,7 @@
 `React.js` • `Node.js` • `Express.js` • `Flask` • `Streamlit` • `Flutter` • `Tailwind CSS`
 
 **Tools & Platforms:**  
-`Git` • `GitHub` • `Docker` • `Linux` • `Jupyter` • `VS Code` • `After Effects` • `Photoshop` • `Unreal Engine`
+`Git` • `GitHub` • `Linux` • `Jupyter` • `VS Code` • `After Effects` • `Photoshop` • `Unreal Engine`
 
 <p align="center">
 
