@@ -108,7 +108,7 @@
   <a href="mailto:vedantgadge0@gmail.com" target="_blank" title="Let's connect over email!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vedant-gadge/" target="_blank" title="Find me on LinkedIn!">
+  <a href="https://www.linkedin.com/in/vedant-gadge-a3085a315/" target="_blank" title="Find me on LinkedIn!">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
