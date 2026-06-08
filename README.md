@@ -6,19 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Building+and+solving+real-world+projects;Full+Stack+Dev+%7C+AI%2FML+%7C+DSA;Always+learning+Always+evolving" alt="Typing SVG" /></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantGadge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="45%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VedantGadge&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantGadge&theme=tokyo-night&area=true&hide_border=true&radius=12" width="92%" />
-</p>
-
 
 
 ---
@@ -90,8 +77,7 @@
 
 </p>
 
-
----
+<img src="https://komarev.com/ghpvc/?username=VedantGadge&style=flat-square&color=blue" alt="Profile views" />
 
 ## 🌐 Let’s Connect
 
